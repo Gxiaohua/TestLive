@@ -1,0 +1,2 @@
+<class 'dict'> /api/admin/periods/add post {'Content-Type': 'application/json'} 200
+http://test-live-api.weimiaocaishang.com

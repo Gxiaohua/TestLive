@@ -1,0 +1,2 @@
+<class 'dict'> /api/admin/course_config/add post {'Content-Type': 'application/json'} 200
+http://test-live-api.weimiaocaishang.com

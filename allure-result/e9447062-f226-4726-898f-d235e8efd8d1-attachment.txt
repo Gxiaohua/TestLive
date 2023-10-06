@@ -1,0 +1,2 @@
+<class 'dict'> /api/admin/live_course/deleteTimeTableCache get {'Content-Type': 'multipart/form-data; boundary=<calculated when request is sent>'} 200
+http://test-live-api.weimiaocaishang.com

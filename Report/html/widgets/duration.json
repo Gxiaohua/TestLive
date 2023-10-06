@@ -1,0 +1,61 @@
+[ {
+  "uid" : "981575598b2edb77",
+  "name" : "课程管理相关接口",
+  "time" : {
+    "start" : 1696498124971,
+    "stop" : 1696498125214,
+    "duration" : 243
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "2055aaf2adeb2da7",
+  "name" : "课程管理相关接口",
+  "time" : {
+    "start" : 1696498123244,
+    "stop" : 1696498123573,
+    "duration" : 329
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "88f802f6dbd66b06",
+  "name" : "课程管理相关接口",
+  "time" : {
+    "start" : 1696498123805,
+    "stop" : 1696498124088,
+    "duration" : 283
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "1026cdb7e0ee5c23",
+  "name" : "课程管理相关接口",
+  "time" : {
+    "start" : 1696498124110,
+    "stop" : 1696498124394,
+    "duration" : 284
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "253b147668ea8c74",
+  "name" : "课程管理相关接口",
+  "time" : {
+    "start" : 1696498124402,
+    "stop" : 1696498124599,
+    "duration" : 197
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "932cd3dd5d168511",
+  "name" : "课程管理相关接口",
+  "time" : {
+    "start" : 1696498124647,
+    "stop" : 1696498124905,
+    "duration" : 258
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

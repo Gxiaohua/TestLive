@@ -1,0 +1,95 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "TestCase",
+    "children" : [ {
+      "name" : "test_live_class",
+      "children" : [ {
+        "name" : "TestLiveClass",
+        "children" : [ {
+          "name" : "课程管理相关接口",
+          "uid" : "2055aaf2adeb2da7",
+          "parentUid" : "28e421bf1974a1cdb1bf747600a19e6c",
+          "status" : "failed",
+          "time" : {
+            "start" : 1696498123244,
+            "stop" : 1696498123573,
+            "duration" : 329
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'用例编号': 'live_class_001', '用例标题': '直播课程类型添加', 'url': '/api/admin/course_config/add', '请求方式': 'post', 'data': '{\"id\":\"\",\\n\"name\":\"aaaaa1\",\\n\"is_live\":1,\\n\"start_time\":\"\",\\n\"end_time\":\"\"}', 'header': '{\"Content-Type\"\\n:\"application/json\"}', '预期状态码': 200, '预期结果': '添加成功'}" ]
+        }, {
+          "name" : "课程管理相关接口",
+          "uid" : "88f802f6dbd66b06",
+          "parentUid" : "28e421bf1974a1cdb1bf747600a19e6c",
+          "status" : "failed",
+          "time" : {
+            "start" : 1696498123805,
+            "stop" : 1696498124088,
+            "duration" : 283
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'用例编号': 'live_class_002', '用例标题': '获取期数课表缓存', 'url': '/api/admin/live_course/getTimeTableLists', '请求方式': 'get', 'data': '{\"period_id\":1300}', 'header': '{\"Content-Type\"\\n:\"multipart/form-data; boundary=<calculated when request is sent>\"}', '预期状态码': 200, '预期结果': '成功'}" ]
+        }, {
+          "name" : "课程管理相关接口",
+          "uid" : "1026cdb7e0ee5c23",
+          "parentUid" : "28e421bf1974a1cdb1bf747600a19e6c",
+          "status" : "failed",
+          "time" : {
+            "start" : 1696498124110,
+            "stop" : 1696498124394,
+            "duration" : 284
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'用例编号': 'live_class_003', '用例标题': '删除期数课表缓存', 'url': '/api/admin/live_course/deleteTimeTableCache', '请求方式': 'get', 'data': '{\"period_id\":1425}', 'header': '{\"Content-Type\"\\n:\"multipart/form-data; boundary=<calculated when request is sent>\"}', '预期状态码': 200, '预期结果': ''}" ]
+        }, {
+          "name" : "课程管理相关接口",
+          "uid" : "253b147668ea8c74",
+          "parentUid" : "28e421bf1974a1cdb1bf747600a19e6c",
+          "status" : "failed",
+          "time" : {
+            "start" : 1696498124402,
+            "stop" : 1696498124599,
+            "duration" : 197
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'用例编号': 'live_class_004', '用例标题': '新增期数', 'url': '/api/admin/periods/add', '请求方式': 'post', 'data': '{\"type\":1,\"live_qid\":1000002631,\"opening_date\":\"2021-07-29\",\"live_title\":\"testCourse\",\"group_number\":\"1\",\"assistant_ids\":\"1000002616\",\"provider\":2,\"config_id\":\"\",\"middle_config_id\":25,\"live_teacher_desc\":\"电风扇地方\",\"live_time_desc\":1627558988,\"live_cover\":\"\",\"style_type\":\"\",\"middle_style_type\":28,\"course_id\":5}', 'header': '{\"Content-Type\"\\n:\"application/json\"}', '预期状态码': 200, '预期结果': ''}" ]
+        }, {
+          "name" : "课程管理相关接口",
+          "uid" : "932cd3dd5d168511",
+          "parentUid" : "28e421bf1974a1cdb1bf747600a19e6c",
+          "status" : "failed",
+          "time" : {
+            "start" : 1696498124647,
+            "stop" : 1696498124905,
+            "duration" : 258
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'用例编号': 'live_class_005', '用例标题': '直播课次类型更新', 'url': '/api/admin/course_config/update', '请求方式': 'post', 'data': '{\"name\":\"测试配置\",\\n\"is_live\":0,\\n\"id\":2}', 'header': '{\"Content-Type\"\\n:\"application/x-www-form-urlencoded\"}', '预期状态码': 200, '预期结果': ''}" ]
+        }, {
+          "name" : "课程管理相关接口",
+          "uid" : "981575598b2edb77",
+          "parentUid" : "28e421bf1974a1cdb1bf747600a19e6c",
+          "status" : "failed",
+          "time" : {
+            "start" : 1696498124971,
+            "stop" : 1696498125214,
+            "duration" : 243
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'用例编号': 'live_class_006', '用例标题': '直播课次类型删除', 'url': '/api/admin/course_config/delete', '请求方式': 'get', 'data': '{\"id\":3}', 'header': '{\"Content-Type\"\\n:\"application/x-www-form-urlencoded\"}', '预期状态码': 200, '预期结果': ''}" ]
+        } ],
+        "uid" : "28e421bf1974a1cdb1bf747600a19e6c"
+      } ],
+      "uid" : "1931c1781353693a72193c1a4cd02055"
+    } ],
+    "uid" : "ee79ae265a842e48c4df30f006daaf4e"
+  } ]
+}

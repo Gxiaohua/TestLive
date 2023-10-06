@@ -1,0 +1,7 @@
+# -*- coding:utf-8 -*-
+[WmLive]
+wm-auth-api = https://test-internal-open.weimiaocaishang.com
+wm-live-api = http://test-live-api.weimiaocaishang.com
+
+[Header]
+Content-Type = application/json

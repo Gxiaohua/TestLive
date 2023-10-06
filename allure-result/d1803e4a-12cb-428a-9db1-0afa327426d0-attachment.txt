@@ -1,0 +1,2 @@
+2023-10-05 16:57:40,688-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:57:40,688-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 

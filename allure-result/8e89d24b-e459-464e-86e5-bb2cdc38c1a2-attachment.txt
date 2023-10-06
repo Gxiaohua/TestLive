@@ -1,0 +1,1 @@
+[31m[1mERROR   [0m D:\ApiTestWork\API_LiveTest\Logs\all_log.log:handle_assert.py:62 statusCode error, expected_code is 200, statusCode is 310002

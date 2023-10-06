@@ -1,0 +1,89 @@
+{
+  "uid" : "253b147668ea8c74",
+  "name" : "课程管理相关接口",
+  "fullName" : "TestCase.test_live_class#test_add_course",
+  "historyId" : "d11c0a0567dad3765ea7bc48dffe62d3",
+  "time" : {
+    "start" : 1696498124402,
+    "stop" : 1696498124599,
+    "duration" : 197
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError",
+  "statusTrace" : "self = <TestCase.test_live_class.TestLiveClass object at 0x0000021324270280>\ncase = {'data': '{\"type\":1,\"live_qid\":1000002631,\"opening_date\":\"2021-07-29\",\"live_title\":\"testCourse\",\"group_number\":\"1\",\"as...ourse_id\":5}', 'header': '{\"Content-Type\"\\n:\"application/json\"}', 'url': '/api/admin/periods/add', '用例标题': '新增期数', ...}\n\n    @allure.title('课程管理相关接口')\n    @pytest.mark.parametrize('case',all_case)\n    def test_add_course(self,case):\n        url = case['url']\n        get_method = case['请求方式']\n        data = case['data'].encode('utf-8')\n        get_header = eval(case['header'])\n        code = case['预期状态码']\n        key = 'wm-live-api'\n        print(type(case),url,get_method,get_header,code)\n        if get_method == 'post':\n            res = RequestBase().send_post(url=url,data=data,key=key,cookie=None,header=get_header)\n        else:\n            res = RequestBase().send_get(url=url,params=data,key=key,cookie=None,header=get_header)\n        test_assert = Assert()\n        res = res.json()\n        res_code = res['code']\n>       assert test_assert.assertCode(res_code, code)\n\nTestCase\\test_live_class.py:35: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <Common.handle_assert.Assert object at 0x00000213241B8CA0>, code = 310002\nexpected_code = 200\n\n    def assertCode(self,code,expected_code):\n        \"\"\"\n        验证response状态码\n        :param code:\n        :param expected_code:\n        :return:\n        \"\"\"\n        try:\n>           assert code == expected_code\nE           AssertionError\n\nCommon\\handle_assert.py:59: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError",
+    "statusTrace" : "self = <TestCase.test_live_class.TestLiveClass object at 0x0000021324270280>\ncase = {'data': '{\"type\":1,\"live_qid\":1000002631,\"opening_date\":\"2021-07-29\",\"live_title\":\"testCourse\",\"group_number\":\"1\",\"as...ourse_id\":5}', 'header': '{\"Content-Type\"\\n:\"application/json\"}', 'url': '/api/admin/periods/add', '用例标题': '新增期数', ...}\n\n    @allure.title('课程管理相关接口')\n    @pytest.mark.parametrize('case',all_case)\n    def test_add_course(self,case):\n        url = case['url']\n        get_method = case['请求方式']\n        data = case['data'].encode('utf-8')\n        get_header = eval(case['header'])\n        code = case['预期状态码']\n        key = 'wm-live-api'\n        print(type(case),url,get_method,get_header,code)\n        if get_method == 'post':\n            res = RequestBase().send_post(url=url,data=data,key=key,cookie=None,header=get_header)\n        else:\n            res = RequestBase().send_get(url=url,params=data,key=key,cookie=None,header=get_header)\n        test_assert = Assert()\n        res = res.json()\n        res_code = res['code']\n>       assert test_assert.assertCode(res_code, code)\n\nTestCase\\test_live_class.py:35: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <Common.handle_assert.Assert object at 0x00000213241B8CA0>, code = 310002\nexpected_code = 200\n\n    def assertCode(self,code,expected_code):\n        \"\"\"\n        验证response状态码\n        :param code:\n        :param expected_code:\n        :return:\n        \"\"\"\n        try:\n>           assert code == expected_code\nE           AssertionError\n\nCommon\\handle_assert.py:59: AssertionError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "68033a74fd6fc740",
+      "name" : "log",
+      "source" : "68033a74fd6fc740.txt",
+      "type" : "text/plain",
+      "size" : 134
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "课程管理"
+  }, {
+    "name" : "epic",
+    "value" : "直播项目"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCase"
+  }, {
+    "name" : "suite",
+    "value" : "test_live_class"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLiveClass"
+  }, {
+    "name" : "host",
+    "value" : "MS-MHBZJMSYRUBS"
+  }, {
+    "name" : "thread",
+    "value" : "11684-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCase.test_live_class"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "{'用例编号': 'live_class_004', '用例标题': '新增期数', 'url': '/api/admin/periods/add', '请求方式': 'post', 'data': '{\"type\":1,\"live_qid\":1000002631,\"opening_date\":\"2021-07-29\",\"live_title\":\"testCourse\",\"group_number\":\"1\",\"assistant_ids\":\"1000002616\",\"provider\":2,\"config_id\":\"\",\"middle_config_id\":25,\"live_teacher_desc\":\"电风扇地方\",\"live_time_desc\":1627558988,\"live_cover\":\"\",\"style_type\":\"\",\"middle_style_type\":28,\"course_id\":5}', 'header': '{\"Content-Type\"\\n:\"application/json\"}', '预期状态码': 200, '预期结果': ''}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "253b147668ea8c74.json",
+  "parameterValues" : [ "{'用例编号': 'live_class_004', '用例标题': '新增期数', 'url': '/api/admin/periods/add', '请求方式': 'post', 'data': '{\"type\":1,\"live_qid\":1000002631,\"opening_date\":\"2021-07-29\",\"live_title\":\"testCourse\",\"group_number\":\"1\",\"assistant_ids\":\"1000002616\",\"provider\":2,\"config_id\":\"\",\"middle_config_id\":25,\"live_teacher_desc\":\"电风扇地方\",\"live_time_desc\":1627558988,\"live_cover\":\"\",\"style_type\":\"\",\"middle_style_type\":28,\"course_id\":5}', 'header': '{\"Content-Type\"\\n:\"application/json\"}', '预期状态码': 200, '预期结果': ''}" ]
+}

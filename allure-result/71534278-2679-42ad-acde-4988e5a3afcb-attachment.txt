@@ -1,0 +1,2 @@
+<class 'dict'> /api/admin/course_config/delete get {'Content-Type': 'application/x-www-form-urlencoded'} 200
+http://test-live-api.weimiaocaishang.com

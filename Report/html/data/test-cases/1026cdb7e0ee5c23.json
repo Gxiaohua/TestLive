@@ -1,0 +1,89 @@
+{
+  "uid" : "1026cdb7e0ee5c23",
+  "name" : "课程管理相关接口",
+  "fullName" : "TestCase.test_live_class#test_add_course",
+  "historyId" : "d353fc1189150f742f21e53b2ce8adb6",
+  "time" : {
+    "start" : 1696498124110,
+    "stop" : 1696498124394,
+    "duration" : 284
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError",
+  "statusTrace" : "self = <TestCase.test_live_class.TestLiveClass object at 0x00000213242703D0>\ncase = {'data': '{\"period_id\":1425}', 'header': '{\"Content-Type\"\\n:\"multipart/form-data; boundary=<calculated when request is sent>\"}', 'url': '/api/admin/live_course/deleteTimeTableCache', '用例标题': '删除期数课表缓存', ...}\n\n    @allure.title('课程管理相关接口')\n    @pytest.mark.parametrize('case',all_case)\n    def test_add_course(self,case):\n        url = case['url']\n        get_method = case['请求方式']\n        data = case['data'].encode('utf-8')\n        get_header = eval(case['header'])\n        code = case['预期状态码']\n        key = 'wm-live-api'\n        print(type(case),url,get_method,get_header,code)\n        if get_method == 'post':\n            res = RequestBase().send_post(url=url,data=data,key=key,cookie=None,header=get_header)\n        else:\n            res = RequestBase().send_get(url=url,params=data,key=key,cookie=None,header=get_header)\n        test_assert = Assert()\n        res = res.json()\n        res_code = res['code']\n>       assert test_assert.assertCode(res_code, code)\n\nTestCase\\test_live_class.py:35: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <Common.handle_assert.Assert object at 0x00000213242704C0>, code = 310002\nexpected_code = 200\n\n    def assertCode(self,code,expected_code):\n        \"\"\"\n        验证response状态码\n        :param code:\n        :param expected_code:\n        :return:\n        \"\"\"\n        try:\n>           assert code == expected_code\nE           AssertionError\n\nCommon\\handle_assert.py:59: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError",
+    "statusTrace" : "self = <TestCase.test_live_class.TestLiveClass object at 0x00000213242703D0>\ncase = {'data': '{\"period_id\":1425}', 'header': '{\"Content-Type\"\\n:\"multipart/form-data; boundary=<calculated when request is sent>\"}', 'url': '/api/admin/live_course/deleteTimeTableCache', '用例标题': '删除期数课表缓存', ...}\n\n    @allure.title('课程管理相关接口')\n    @pytest.mark.parametrize('case',all_case)\n    def test_add_course(self,case):\n        url = case['url']\n        get_method = case['请求方式']\n        data = case['data'].encode('utf-8')\n        get_header = eval(case['header'])\n        code = case['预期状态码']\n        key = 'wm-live-api'\n        print(type(case),url,get_method,get_header,code)\n        if get_method == 'post':\n            res = RequestBase().send_post(url=url,data=data,key=key,cookie=None,header=get_header)\n        else:\n            res = RequestBase().send_get(url=url,params=data,key=key,cookie=None,header=get_header)\n        test_assert = Assert()\n        res = res.json()\n        res_code = res['code']\n>       assert test_assert.assertCode(res_code, code)\n\nTestCase\\test_live_class.py:35: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <Common.handle_assert.Assert object at 0x00000213242704C0>, code = 310002\nexpected_code = 200\n\n    def assertCode(self,code,expected_code):\n        \"\"\"\n        验证response状态码\n        :param code:\n        :param expected_code:\n        :return:\n        \"\"\"\n        try:\n>           assert code == expected_code\nE           AssertionError\n\nCommon\\handle_assert.py:59: AssertionError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "77c9d92b67745c93",
+      "name" : "log",
+      "source" : "77c9d92b67745c93.txt",
+      "type" : "text/plain",
+      "size" : 134
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "课程管理"
+  }, {
+    "name" : "epic",
+    "value" : "直播项目"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCase"
+  }, {
+    "name" : "suite",
+    "value" : "test_live_class"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLiveClass"
+  }, {
+    "name" : "host",
+    "value" : "MS-MHBZJMSYRUBS"
+  }, {
+    "name" : "thread",
+    "value" : "11684-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCase.test_live_class"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "{'用例编号': 'live_class_003', '用例标题': '删除期数课表缓存', 'url': '/api/admin/live_course/deleteTimeTableCache', '请求方式': 'get', 'data': '{\"period_id\":1425}', 'header': '{\"Content-Type\"\\n:\"multipart/form-data; boundary=<calculated when request is sent>\"}', '预期状态码': 200, '预期结果': ''}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "1026cdb7e0ee5c23.json",
+  "parameterValues" : [ "{'用例编号': 'live_class_003', '用例标题': '删除期数课表缓存', 'url': '/api/admin/live_course/deleteTimeTableCache', '请求方式': 'get', 'data': '{\"period_id\":1425}', 'header': '{\"Content-Type\"\\n:\"multipart/form-data; boundary=<calculated when request is sent>\"}', '预期状态码': 200, '预期结果': ''}" ]
+}

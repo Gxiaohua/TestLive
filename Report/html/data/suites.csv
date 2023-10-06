@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Thu Oct 05 17:28:44 CST 2023","Thu Oct 05 17:28:45 CST 2023","243","TestCase","test_live_class","TestLiveClass","","","课程管理相关接口",""
+"failed","Thu Oct 05 17:28:43 CST 2023","Thu Oct 05 17:28:43 CST 2023","329","TestCase","test_live_class","TestLiveClass","","","课程管理相关接口",""
+"failed","Thu Oct 05 17:28:43 CST 2023","Thu Oct 05 17:28:44 CST 2023","283","TestCase","test_live_class","TestLiveClass","","","课程管理相关接口",""
+"failed","Thu Oct 05 17:28:44 CST 2023","Thu Oct 05 17:28:44 CST 2023","284","TestCase","test_live_class","TestLiveClass","","","课程管理相关接口",""
+"failed","Thu Oct 05 17:28:44 CST 2023","Thu Oct 05 17:28:44 CST 2023","197","TestCase","test_live_class","TestLiveClass","","","课程管理相关接口",""
+"failed","Thu Oct 05 17:28:44 CST 2023","Thu Oct 05 17:28:44 CST 2023","258","TestCase","test_live_class","TestLiveClass","","","课程管理相关接口",""

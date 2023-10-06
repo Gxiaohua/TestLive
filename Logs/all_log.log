@@ -1,0 +1,427 @@
+
+2023-10-03 21:18:11,593-D:/ApiTestWork/API_LiveTest/Common/logger.py[line:83]-INFO:写入日志
+2023-10-03 21:18:11,594-D:/ApiTestWork/API_LiveTest/Common/logger.py[line:115]-ERROR:接口错误123
+2023-10-03 21:18:11,594-D:/ApiTestWork/API_LiveTest/Common/logger.py[line:115]-ERROR:接口错误123
+2023-10-04 14:23:52,928-D:\ApiTestWork\API_LiveTest\Common\logger.py[line:79]-INFO:写入日志
+2023-10-04 14:27:39,869-D:/ApiTestWork/API_LiveTest/Common/request_base.py[line:70]-ERROR:接口请求异常,原因：'RequestBase' object has no attribute 'request'
+2023-10-04 14:28:51,231-D:/ApiTestWork/API_LiveTest/Common/request_base.py[line:70]-ERROR:接口请求异常,原因：('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2023-10-04 14:43:14,280-D:/ApiTestWork/API_LiveTest/Common/request_base.py[line:70]-ERROR:接口请求异常,原因：('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2023-10-04 14:47:35,966-D:/ApiTestWork/API_LiveTest/Common/request_base.py[line:72]-ERROR:接口请求异常,原因：('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2023-10-04 14:48:38,840-D:/ApiTestWork/API_LiveTest/Common/request_base.py[line:79]-ERROR:接口请求异常,原因：('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2023-10-04 14:49:17,397-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:64]-ERROR:接口请求异常,原因：'Response' object has no attribute 'code'
+2023-10-04 14:49:17,862-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:79]-ERROR:接口请求异常,原因：'Response' object has no attribute 'code'
+2023-10-04 14:49:18,088-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:79]-ERROR:接口请求异常,原因：'Response' object has no attribute 'code'
+2023-10-04 14:49:18,320-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:64]-ERROR:接口请求异常,原因：'Response' object has no attribute 'code'
+2023-10-04 14:49:18,522-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:64]-ERROR:接口请求异常,原因：'Response' object has no attribute 'code'
+2023-10-04 14:49:18,830-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:79]-ERROR:接口请求异常,原因：'Response' object has no attribute 'code'
+2023-10-04 14:52:14,038-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:83]-INFO:请求方式====>post
+2023-10-04 14:52:14,038-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:84]-INFO:请求地址====>http://test-live-api.weimiaocaishang.com/api/admin/course_config/add
+2023-10-04 14:52:14,038-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:85]-INFO:请求头====>{
+    "Content-Type": "application/json"
+}
+2023-10-04 14:52:14,038-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:64]-ERROR:接口请求异常,原因：Object of type bytes is not JSON serializable
+2023-10-04 14:52:14,653-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:79]-ERROR:接口请求异常,原因：'Response' object has no attribute 'code'
+2023-10-04 14:52:14,956-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:79]-ERROR:接口请求异常,原因：'Response' object has no attribute 'code'
+2023-10-04 14:52:15,263-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:83]-INFO:请求方式====>post
+2023-10-04 14:52:15,265-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:84]-INFO:请求地址====>http://test-live-api.weimiaocaishang.com/api/admin/periods/add
+2023-10-04 14:52:15,266-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:85]-INFO:请求头====>{
+    "Content-Type": "application/json"
+}
+2023-10-04 14:52:15,266-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:64]-ERROR:接口请求异常,原因：Object of type bytes is not JSON serializable
+2023-10-04 14:52:15,574-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:83]-INFO:请求方式====>post
+2023-10-04 14:52:15,574-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:84]-INFO:请求地址====>http://test-live-api.weimiaocaishang.com/api/admin/course_config/update
+2023-10-04 14:52:15,576-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:85]-INFO:请求头====>{
+    "Content-Type": "application/x-www-form-urlencoded"
+}
+2023-10-04 14:52:15,576-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:64]-ERROR:接口请求异常,原因：Object of type bytes is not JSON serializable
+2023-10-04 14:52:15,880-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:79]-ERROR:接口请求异常,原因：'Response' object has no attribute 'code'
+2023-10-04 15:00:16,037-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:64]-ERROR:接口请求异常,原因：type() takes 1 or 3 arguments
+2023-10-04 15:00:16,448-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:79]-ERROR:接口请求异常,原因：'Response' object has no attribute 'code'
+2023-10-04 15:00:16,754-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:79]-ERROR:接口请求异常,原因：'Response' object has no attribute 'code'
+2023-10-04 15:00:16,963-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:64]-ERROR:接口请求异常,原因：type() takes 1 or 3 arguments
+2023-10-04 15:00:17,270-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:64]-ERROR:接口请求异常,原因：type() takes 1 or 3 arguments
+2023-10-04 15:00:17,575-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:79]-ERROR:接口请求异常,原因：'Response' object has no attribute 'code'
+2023-10-04 15:02:17,486-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:85]-INFO:请求方式====>post
+2023-10-04 15:02:17,486-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:86]-INFO:请求地址====>http://test-live-api.weimiaocaishang.com/api/admin/course_config/add
+2023-10-04 15:02:17,486-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:87]-INFO:请求头====>{
+    "Content-Type": "application/json"
+}
+2023-10-04 15:02:17,486-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:64]-ERROR:接口请求异常,原因：Object of type bytes is not JSON serializable
+2023-10-04 15:02:18,000-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:85]-INFO:请求方式====>get
+2023-10-04 15:02:18,000-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:86]-INFO:请求地址====>http://test-live-api.weimiaocaishang.com/api/admin/live_course/getTimeTableLists
+2023-10-04 15:02:18,000-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:87]-INFO:请求头====>{
+    "Content-Type": "multipart/form-data; boundary=<calculated when request is sent>"
+}
+2023-10-04 15:02:18,000-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:79]-ERROR:接口请求异常,原因：Object of type bytes is not JSON serializable
+2023-10-04 15:02:18,309-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:85]-INFO:请求方式====>get
+2023-10-04 15:02:18,312-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:86]-INFO:请求地址====>http://test-live-api.weimiaocaishang.com/api/admin/live_course/deleteTimeTableCache
+2023-10-04 15:02:18,312-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:87]-INFO:请求头====>{
+    "Content-Type": "multipart/form-data; boundary=<calculated when request is sent>"
+}
+2023-10-04 15:02:18,313-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:79]-ERROR:接口请求异常,原因：Object of type bytes is not JSON serializable
+2023-10-04 15:02:18,613-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:85]-INFO:请求方式====>post
+2023-10-04 15:02:18,614-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:86]-INFO:请求地址====>http://test-live-api.weimiaocaishang.com/api/admin/periods/add
+2023-10-04 15:02:18,614-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:87]-INFO:请求头====>{
+    "Content-Type": "application/json"
+}
+2023-10-04 15:02:18,614-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:64]-ERROR:接口请求异常,原因：Object of type bytes is not JSON serializable
+2023-10-04 15:02:18,930-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:85]-INFO:请求方式====>post
+2023-10-04 15:02:18,931-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:86]-INFO:请求地址====>http://test-live-api.weimiaocaishang.com/api/admin/course_config/update
+2023-10-04 15:02:18,932-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:87]-INFO:请求头====>{
+    "Content-Type": "application/x-www-form-urlencoded"
+}
+2023-10-04 15:02:18,933-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:64]-ERROR:接口请求异常,原因：Object of type bytes is not JSON serializable
+2023-10-04 15:02:19,331-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:85]-INFO:请求方式====>get
+2023-10-04 15:02:19,331-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:86]-INFO:请求地址====>http://test-live-api.weimiaocaishang.com/api/admin/course_config/delete
+2023-10-04 15:02:19,331-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:87]-INFO:请求头====>{
+    "Content-Type": "application/x-www-form-urlencoded"
+}
+2023-10-04 15:02:19,331-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:79]-ERROR:接口请求异常,原因：Object of type bytes is not JSON serializable
+2023-10-04 15:06:24,375-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:85]-INFO:请求方式====>post
+2023-10-04 15:06:24,375-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:86]-INFO:请求地址====>http://test-live-api.weimiaocaishang.com/api/admin/course_config/add
+2023-10-04 15:06:24,375-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:87]-INFO:请求头====>{
+    "Content-Type": "application/json"
+}
+2023-10-04 15:06:24,375-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:88]-INFO:请求参数====>b'{"id":"",\n"name":"aaaaa1",\n"is_live":1,\n"start_time":"",\n"end_time":""}'
+2023-10-04 15:06:24,376-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:89]-INFO:请求体====>null
+2023-10-04 15:06:24,376-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:90]-INFO:上传附件为======>None
+2023-10-04 15:06:24,376-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:91]-INFO:Cookies====>null
+2023-10-04 15:06:24,376-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:92]-INFO:接口响应状态码====>None
+2023-10-04 15:06:24,376-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:93]-INFO:接口响应头为====>None
+2023-10-04 15:06:24,378-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:94]-INFO:接口响应体为====>{"code":370001,"msg":"配置名重复！","data":[]}
+2023-10-04 15:06:24,561-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:85]-INFO:请求方式====>get
+2023-10-04 15:06:24,561-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:86]-INFO:请求地址====>http://test-live-api.weimiaocaishang.com/api/admin/live_course/getTimeTableLists
+2023-10-04 15:06:24,561-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:87]-INFO:请求头====>{
+    "Content-Type": "multipart/form-data; boundary=<calculated when request is sent>"
+}
+2023-10-04 15:06:24,561-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:88]-INFO:请求参数====>b'{"period_id":1300}'
+2023-10-04 15:06:24,562-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:89]-INFO:请求体====>null
+2023-10-04 15:06:24,562-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:90]-INFO:上传附件为======>None
+2023-10-04 15:06:24,562-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:91]-INFO:Cookies====>null
+2023-10-04 15:06:24,562-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:92]-INFO:接口响应状态码====>None
+2023-10-04 15:06:24,562-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:93]-INFO:接口响应头为====>None
+2023-10-04 15:06:24,562-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:94]-INFO:接口响应体为====>{"code":310002,"msg":"期数ID列表参数必填","data":[]}
+2023-10-04 15:06:24,784-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:85]-INFO:请求方式====>get
+2023-10-04 15:06:24,784-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:86]-INFO:请求地址====>http://test-live-api.weimiaocaishang.com/api/admin/live_course/deleteTimeTableCache
+2023-10-04 15:06:24,788-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:87]-INFO:请求头====>{
+    "Content-Type": "multipart/form-data; boundary=<calculated when request is sent>"
+}
+2023-10-04 15:06:24,788-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:88]-INFO:请求参数====>b'{"period_id":1425}'
+2023-10-04 15:06:24,789-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:89]-INFO:请求体====>null
+2023-10-04 15:06:24,789-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:90]-INFO:上传附件为======>None
+2023-10-04 15:06:24,789-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:91]-INFO:Cookies====>null
+2023-10-04 15:06:24,789-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:92]-INFO:接口响应状态码====>None
+2023-10-04 15:06:24,789-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:93]-INFO:接口响应头为====>None
+2023-10-04 15:06:24,789-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:94]-INFO:接口响应体为====>{"code":310002,"msg":"期数ID参数必填","data":[]}
+2023-10-04 15:06:24,990-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:85]-INFO:请求方式====>post
+2023-10-04 15:06:24,990-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:86]-INFO:请求地址====>http://test-live-api.weimiaocaishang.com/api/admin/periods/add
+2023-10-04 15:06:24,990-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:87]-INFO:请求头====>{
+    "Content-Type": "application/json"
+}
+2023-10-04 15:06:24,990-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:88]-INFO:请求参数====>b'{"type":1,"live_qid":1000002631,"opening_date":"2021-07-29","live_title":"testCourse","group_number":"1","assistant_ids":"1000002616","provider":2,"config_id":"","middle_config_id":25,"live_teacher_desc":"\xe7\x94\xb5\xe9\xa3\x8e\xe6\x89\x87\xe5\x9c\xb0\xe6\x96\xb9","live_time_desc":1627558988,"live_cover":"","style_type":"","middle_style_type":28,"course_id":5}'
+2023-10-04 15:06:24,990-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:89]-INFO:请求体====>null
+2023-10-04 15:06:24,994-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:90]-INFO:上传附件为======>None
+2023-10-04 15:06:24,994-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:91]-INFO:Cookies====>null
+2023-10-04 15:06:24,994-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:92]-INFO:接口响应状态码====>None
+2023-10-04 15:06:24,994-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:93]-INFO:接口响应头为====>None
+2023-10-04 15:06:24,994-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:94]-INFO:接口响应体为====>{"code":310002,"msg":"开班日期选择有误！","data":[]}
+2023-10-04 15:06:25,300-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:85]-INFO:请求方式====>post
+2023-10-04 15:06:25,301-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:86]-INFO:请求地址====>http://test-live-api.weimiaocaishang.com/api/admin/course_config/update
+2023-10-04 15:06:25,301-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:87]-INFO:请求头====>{
+    "Content-Type": "application/x-www-form-urlencoded"
+}
+2023-10-04 15:06:25,301-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:88]-INFO:请求参数====>b'{"name":"\xe6\xb5\x8b\xe8\xaf\x95\xe9\x85\x8d\xe7\xbd\xae",\n"is_live":0,\n"id":2}'
+2023-10-04 15:06:25,301-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:89]-INFO:请求体====>null
+2023-10-04 15:06:25,301-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:90]-INFO:上传附件为======>None
+2023-10-04 15:06:25,304-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:91]-INFO:Cookies====>null
+2023-10-04 15:06:25,304-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:92]-INFO:接口响应状态码====>None
+2023-10-04 15:06:25,305-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:93]-INFO:接口响应头为====>None
+2023-10-04 15:06:25,305-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:94]-INFO:接口响应体为====>{"code":310002,"msg":"课次ID参数不能为空","data":[]}
+2023-10-04 15:06:25,607-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:85]-INFO:请求方式====>get
+2023-10-04 15:06:25,608-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:86]-INFO:请求地址====>http://test-live-api.weimiaocaishang.com/api/admin/course_config/delete
+2023-10-04 15:06:25,608-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:87]-INFO:请求头====>{
+    "Content-Type": "application/x-www-form-urlencoded"
+}
+2023-10-04 15:06:25,609-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:88]-INFO:请求参数====>b'{"id":3}'
+2023-10-04 15:06:25,609-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:89]-INFO:请求体====>null
+2023-10-04 15:06:25,610-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:90]-INFO:上传附件为======>None
+2023-10-04 15:06:25,610-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:91]-INFO:Cookies====>null
+2023-10-04 15:06:25,610-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:92]-INFO:接口响应状态码====>None
+2023-10-04 15:06:25,610-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:93]-INFO:接口响应头为====>None
+2023-10-04 15:06:25,610-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:94]-INFO:接口响应体为====>{"code":310002,"msg":"课次ID必填","data":[]}
+2023-10-04 15:10:41,712-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:85]-INFO:请求方式====>post
+2023-10-04 15:10:41,712-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:86]-INFO:请求地址====>http://test-live-api.weimiaocaishang.com/api/admin/course_config/add
+2023-10-04 15:10:41,712-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:87]-INFO:请求头====>{
+    "Content-Type": "application/json"
+}
+2023-10-04 15:10:41,712-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:88]-INFO:请求参数====>b'{"id":"",\n"name":"aaaaa1",\n"is_live":1,\n"start_time":"",\n"end_time":""}'
+2023-10-04 15:10:41,712-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:89]-INFO:请求体====>null
+2023-10-04 15:10:41,712-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:90]-INFO:上传附件为======>None
+2023-10-04 15:10:41,716-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:91]-INFO:Cookies====>null
+2023-10-04 15:10:41,716-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:92]-INFO:接口响应状态码====>200
+2023-10-04 15:10:41,716-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:93]-INFO:接口响应头为====>None
+2023-10-04 15:10:41,720-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:94]-INFO:接口响应体为====>{"code":370001,"msg":"配置名重复！","data":[]}
+2023-10-04 15:10:42,019-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:85]-INFO:请求方式====>get
+2023-10-04 15:10:42,020-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:86]-INFO:请求地址====>http://test-live-api.weimiaocaishang.com/api/admin/live_course/getTimeTableLists
+2023-10-04 15:10:42,021-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:87]-INFO:请求头====>{
+    "Content-Type": "multipart/form-data; boundary=<calculated when request is sent>"
+}
+2023-10-04 15:10:42,021-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:88]-INFO:请求参数====>b'{"period_id":1300}'
+2023-10-04 15:10:42,022-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:89]-INFO:请求体====>null
+2023-10-04 15:10:42,022-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:90]-INFO:上传附件为======>None
+2023-10-04 15:10:42,023-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:91]-INFO:Cookies====>null
+2023-10-04 15:10:42,023-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:92]-INFO:接口响应状态码====>200
+2023-10-04 15:10:42,023-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:93]-INFO:接口响应头为====>None
+2023-10-04 15:10:42,023-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:94]-INFO:接口响应体为====>{"code":310002,"msg":"期数ID列表参数必填","data":[]}
+2023-10-04 15:10:42,325-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:85]-INFO:请求方式====>get
+2023-10-04 15:10:42,325-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:86]-INFO:请求地址====>http://test-live-api.weimiaocaishang.com/api/admin/live_course/deleteTimeTableCache
+2023-10-04 15:10:42,325-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:87]-INFO:请求头====>{
+    "Content-Type": "multipart/form-data; boundary=<calculated when request is sent>"
+}
+2023-10-04 15:10:42,325-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:88]-INFO:请求参数====>b'{"period_id":1425}'
+2023-10-04 15:10:42,325-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:89]-INFO:请求体====>null
+2023-10-04 15:10:42,325-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:90]-INFO:上传附件为======>None
+2023-10-04 15:10:42,325-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:91]-INFO:Cookies====>null
+2023-10-04 15:10:42,329-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:92]-INFO:接口响应状态码====>200
+2023-10-04 15:10:42,329-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:93]-INFO:接口响应头为====>None
+2023-10-04 15:10:42,330-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:94]-INFO:接口响应体为====>{"code":310002,"msg":"期数ID参数必填","data":[]}
+2023-10-04 15:10:42,529-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:85]-INFO:请求方式====>post
+2023-10-04 15:10:42,530-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:86]-INFO:请求地址====>http://test-live-api.weimiaocaishang.com/api/admin/periods/add
+2023-10-04 15:10:42,530-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:87]-INFO:请求头====>{
+    "Content-Type": "application/json"
+}
+2023-10-04 15:10:42,530-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:88]-INFO:请求参数====>b'{"type":1,"live_qid":1000002631,"opening_date":"2021-07-29","live_title":"testCourse","group_number":"1","assistant_ids":"1000002616","provider":2,"config_id":"","middle_config_id":25,"live_teacher_desc":"\xe7\x94\xb5\xe9\xa3\x8e\xe6\x89\x87\xe5\x9c\xb0\xe6\x96\xb9","live_time_desc":1627558988,"live_cover":"","style_type":"","middle_style_type":28,"course_id":5}'
+2023-10-04 15:10:42,530-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:89]-INFO:请求体====>null
+2023-10-04 15:10:42,530-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:90]-INFO:上传附件为======>None
+2023-10-04 15:10:42,530-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:91]-INFO:Cookies====>null
+2023-10-04 15:10:42,530-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:92]-INFO:接口响应状态码====>200
+2023-10-04 15:10:42,535-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:93]-INFO:接口响应头为====>None
+2023-10-04 15:10:42,535-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:94]-INFO:接口响应体为====>{"code":310002,"msg":"开班日期选择有误！","data":[]}
+2023-10-04 15:10:42,837-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:85]-INFO:请求方式====>post
+2023-10-04 15:10:42,838-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:86]-INFO:请求地址====>http://test-live-api.weimiaocaishang.com/api/admin/course_config/update
+2023-10-04 15:10:42,838-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:87]-INFO:请求头====>{
+    "Content-Type": "application/x-www-form-urlencoded"
+}
+2023-10-04 15:10:42,838-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:88]-INFO:请求参数====>b'{"name":"\xe6\xb5\x8b\xe8\xaf\x95\xe9\x85\x8d\xe7\xbd\xae",\n"is_live":0,\n"id":2}'
+2023-10-04 15:10:42,838-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:89]-INFO:请求体====>null
+2023-10-04 15:10:42,838-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:90]-INFO:上传附件为======>None
+2023-10-04 15:10:42,838-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:91]-INFO:Cookies====>null
+2023-10-04 15:10:42,838-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:92]-INFO:接口响应状态码====>200
+2023-10-04 15:10:42,838-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:93]-INFO:接口响应头为====>None
+2023-10-04 15:10:42,842-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:94]-INFO:接口响应体为====>{"code":310002,"msg":"课次ID参数不能为空","data":[]}
+2023-10-04 15:10:43,152-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:85]-INFO:请求方式====>get
+2023-10-04 15:10:43,153-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:86]-INFO:请求地址====>http://test-live-api.weimiaocaishang.com/api/admin/course_config/delete
+2023-10-04 15:10:43,153-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:87]-INFO:请求头====>{
+    "Content-Type": "application/x-www-form-urlencoded"
+}
+2023-10-04 15:10:43,153-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:88]-INFO:请求参数====>b'{"id":3}'
+2023-10-04 15:10:43,153-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:89]-INFO:请求体====>null
+2023-10-04 15:10:43,153-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:90]-INFO:上传附件为======>None
+2023-10-04 15:10:43,153-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:91]-INFO:Cookies====>null
+2023-10-04 15:10:43,153-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:92]-INFO:接口响应状态码====>200
+2023-10-04 15:10:43,153-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:93]-INFO:接口响应头为====>None
+2023-10-04 15:10:43,157-D:\ApiTestWork\API_LiveTest\Common\request_base.py[line:94]-INFO:接口响应体为====>{"code":310002,"msg":"课次ID必填","data":[]}
+2023-10-04 17:15:28,854-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-04 17:15:28,854-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-04 17:15:29,670-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 17:15:29,670-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 17:15:29,978-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 17:15:29,978-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 17:15:30,183-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 17:15:30,183-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 17:15:30,491-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 17:15:30,491-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 17:15:30,692-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 17:15:30,692-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:37:58,669-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-04 21:37:58,669-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-04 21:37:59,116-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:37:59,116-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:37:59,386-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:37:59,386-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:37:59,689-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:37:59,689-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:37:59,904-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:37:59,904-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:38:00,108-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:38:00,108-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:45:30,059-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-04 21:45:30,059-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-04 21:45:30,489-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:45:30,489-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:45:30,818-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:45:30,818-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:45:31,111-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:45:31,111-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:45:31,394-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:45:31,394-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:45:31,619-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:45:31,619-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:47:03,546-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-04 21:47:03,546-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-04 21:47:04,055-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:47:04,055-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:47:04,369-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:47:04,369-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:47:04,582-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:47:04,582-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:47:04,984-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:47:04,984-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:47:05,400-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:47:05,400-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:51:31,840-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-04 21:51:31,840-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-04 21:51:32,255-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:51:32,255-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:51:32,556-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:51:32,556-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:51:32,864-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:51:32,864-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:51:33,174-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:51:33,174-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:51:33,470-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 21:51:33,470-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 22:00:10,605-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-04 22:00:10,605-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-04 22:00:11,045-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 22:00:11,045-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 22:00:11,420-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 22:00:11,420-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 22:00:11,936-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 22:00:11,936-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 22:00:12,244-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 22:00:12,244-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 22:00:12,552-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 22:00:12,552-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 22:01:07,952-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-04 22:01:07,952-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-04 22:01:08,359-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 22:01:08,359-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 22:01:08,667-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 22:01:08,667-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 22:01:08,848-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 22:01:08,848-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 22:01:09,128-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 22:01:09,128-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 22:01:09,386-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 22:01:09,386-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 22:10:08,117-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-04 22:10:08,117-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-04 22:10:08,834-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 22:10:08,834-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 22:10:09,757-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 22:10:09,757-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 22:10:10,063-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 22:10:10,063-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 22:10:10,371-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 22:10:10,371-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 22:10:10,677-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-04 22:10:10,677-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 09:45:29,704-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-05 09:45:29,704-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-05 09:45:30,064-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 09:45:30,064-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 09:45:30,266-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 09:45:30,266-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 09:45:30,475-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 09:45:30,475-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 09:45:30,690-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 09:45:30,690-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 09:45:30,888-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 09:45:30,888-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 09:56:32,927-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-05 09:56:32,927-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-05 09:56:33,276-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 09:56:33,276-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 09:56:33,457-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 09:56:33,457-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 09:56:33,633-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 09:56:33,633-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 09:56:33,833-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 09:56:33,833-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 09:56:34,053-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 09:56:34,053-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 13:35:03,431-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-05 13:35:03,431-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-05 13:35:04,421-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 13:35:04,421-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 13:35:04,677-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 13:35:04,677-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 13:35:04,868-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 13:35:04,868-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 13:35:05,317-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 13:35:05,317-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 13:35:06,248-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 13:35:06,248-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:51:10,231-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-05 16:51:10,231-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-05 16:51:10,741-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:51:10,741-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:51:11,051-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:51:11,051-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:51:11,355-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:51:11,355-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:51:11,665-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:51:11,665-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:51:11,971-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:51:11,971-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:53:39,327-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-05 16:53:39,327-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-05 16:53:39,838-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:53:39,838-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:53:40,147-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:53:40,147-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:53:40,449-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:53:40,449-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:53:40,760-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:53:40,760-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:53:41,069-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:53:41,069-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:55:03,915-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-05 16:55:03,915-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-05 16:55:04,834-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:55:04,834-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:55:05,146-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:55:05,146-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:55:05,450-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:55:05,450-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:55:06,677-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:55:06,677-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:55:07,188-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:55:07,188-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:55:47,943-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-05 16:55:47,943-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-05 16:55:48,354-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:55:48,354-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:55:48,661-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:55:48,661-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:55:48,968-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:55:48,968-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:55:49,270-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:55:49,270-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:55:49,586-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:55:49,586-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:57:40,276-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-05 16:57:40,276-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-05 16:57:40,688-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:57:40,688-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:57:40,996-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:57:40,996-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:57:41,302-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:57:41,302-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:57:41,610-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:57:41,610-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:57:41,886-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 16:57:41,886-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 17:28:43,573-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-05 17:28:43,573-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 370001 
+2023-10-05 17:28:44,087-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 17:28:44,087-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 17:28:44,392-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 17:28:44,392-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 17:28:44,598-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 17:28:44,598-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 17:28:44,903-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 17:28:44,903-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 17:28:45,213-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
+2023-10-05 17:28:45,213-D:\ApiTestWork\API_LiveTest\Common\handle_assert.py[line:62]-ERROR:statusCode error, expected_code is 200, statusCode is 310002 
